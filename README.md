@@ -2,13 +2,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhinavANAND13&style=flat" alt="Profile Views"/>
   <a href="https://linkedin.com/in/abhinavanand1310"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin"/></a>
-  <a href="mailto:abhinavanand1310@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?logo=gmail"/></a>
+  <a href="mailto:abhinavanand1310@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-grey?logo=gmail"/></a>
   <a href="https://github.com/abhinavanandmosaic"><img alt="Professional GitHub" src="https://img.shields.io/badge/-Pro%20GitHub-black?logo=github"/></a>
 </p>
 
 # 👋 Hi, I'm Abhinav Anand
 
-**Front-End Engineer (React/Next.js) | UI/UX Performance | Product Scaling**
+**Front-End Engineer (React Native/React/Next.js) | UI/UX Performance | Product Scaling**
 
 ---
 
@@ -24,21 +24,21 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
 ## 🛠️ Tech Stack
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-grey?logo=postgresql)
+![PHP](https://img.shields.io/badge/PHP-grey?logo=php)
+![Node.js](https://img.shields.io/badge/Node.js-grey?logo=nodedotjs)
 
 **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-593D88?logo=redux)
-![Zustand](https://img.shields.io/badge/Zustand-ea8e6c?logo=zustand)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery)
-![React Navigation](https://img.shields.io/badge/React%20Navigation-6CABDD?logo=react)
-![React Context](https://img.shields.io/badge/React%20Context-222?logo=react)
+![React](https://img.shields.io/badge/React-grey?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-grey?logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React%20Native-grey?logo=react)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-grey?logo=redux)
+![Zustand](https://img.shields.io/badge/Zustand-grey?logo=zustand)
+![React Query](https://img.shields.io/badge/React%20Query-grey?logo=reactquery)
+![React Navigation](https://img.shields.io/badge/React%20Navigation-grey?logo=react)
+![React Context](https://img.shields.io/badge/React%20Context-grey?logo=react)
 
 **Frontend/UX**  
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-33A3DC?logo=responsive)
@@ -50,15 +50,15 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
 ![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-FF6F00?logo=api)
 
 **Tools & DevOps**  
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack)
-![CDN](https://img.shields.io/badge/CDN-1C3AA9?logo=cloudflare)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
-![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?logo=google)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+![Webpack](https://img.shields.io/badge/Webpack-grey?logo=webpack)
+![CDN](https://img.shields.io/badge/CDN-grey?logo=cloudflare)
+![Jenkins](https://img.shields.io/badge/Jenkins-grey?logo=jenkins)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-grey?logo=google)
+![Redis](https://img.shields.io/badge/Redis-grey?logo=redis)
 
 **Testing**  
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest)
-![Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testinglibrary)
+![Testing Library](https://img.shields.io/badge/React%20Testing%20Library-grey?logo=testinglibrary)
 
 **Methodologies**  
 ![Agile](https://img.shields.io/badge/Agile-28a745?logo=scrum)
@@ -131,12 +131,4 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
   <a href="mailto:abhinavanand1310@gmail.com">Gmail</a> •
   <a href="https://github.com/abhinavanandmosaic">Professional GitHub</a> •
   <a href="https://github.com/abhinavANAND13">Personal GitHub</a>
-</p>
-
----
-
-<p align="center">
-<i>Let’s build performant, accessible, and delightful UIs—collaborators welcome!</i>
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=abhinavANAND13&theme=onestar&no-frame=true&no-bg=true"/>
 </p>
