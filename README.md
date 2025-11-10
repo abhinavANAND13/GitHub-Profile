@@ -16,7 +16,7 @@
 
 Results-oriented front-end engineer building **scalable web & mobile apps** for 3+ years:
 - Specialized in **React, Next.js, and React Native** eco-system
-- Proven impact in performance optimization, code quality, and best practices
+- Expert in performance optimization, architecture, and design systems
 - Passionate about **modular design**, developer onboarding, and great UI/UX
 
 ---
@@ -69,6 +69,7 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
 ![Service Workers](https://img.shields.io/badge/Service%20Workers-22D3EE?logo=serviceworkers)
 ![Offline Caching](https://img.shields.io/badge/Offline%20Caching-808080?logo=cache)
 ![Databases](https://img.shields.io/badge/Databases-00B96B?logo=database)
+
 ---
 
 ## 🏆 Highlights & Achievements
@@ -89,6 +90,15 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
 
 ---
 
+## 🗓️ Recent Contributions (Last 12 Months)
+
+<!-- Contribution graph (animated snake/grid, replace with your preferred widget) -->
+<p align="center">
+  <img src="https://github.com/abhinavANAND13/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
 ## 🌟 Featured Projects
 
 - **[RN-Navigation](https://github.com/abhinavanandmosaic/RN-Navigation)**  
@@ -103,17 +113,8 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
 
 ## 💼 Experience
 
-- **SDE-I – Mosaic Wellness** (2022–Present):  
+- **SDE-I – Mosaic Wellness** (Present):  
   Architected robust UI features, drove TypeScript adoption, improved mobile web performance.
-- **Frontend Engineering Intern – Mosaic Wellness** (2022):  
-  Engineered interactive widgets and data-driven apps for user engagement.
-
----
-
-## 🎓 Education
-
-**B.Tech, Electronics & Communications Engineering**  
-*2020, Siksha 'O' Anusandhan University*
 
 ---
 
@@ -131,4 +132,10 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
   <a href="mailto:abhinavanand1310@gmail.com">Gmail</a> •
   <a href="https://github.com/abhinavanandmosaic">Professional GitHub</a> •
   <a href="https://github.com/abhinavANAND13">Personal GitHub</a>
+</p>
+
+---
+
+<p align="center">
+<i>Let’s build performant, accessible, and delightful UIs—collaborators welcome!</i>
 </p>
