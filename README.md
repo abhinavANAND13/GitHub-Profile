@@ -90,15 +90,6 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
 
 ---
 
-## 🗓️ Recent Contributions (Last 12 Months)
-
-<!-- Contribution graph (animated snake/grid, replace with your preferred widget) -->
-<p align="center">
-  <img src="https://github.com/abhinavANAND13/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 - **[RN-Navigation](https://github.com/abhinavanandmosaic/RN-Navigation)**  
@@ -118,13 +109,6 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
 
 ---
 
-## 📚 Certifications
-
-- JavaScript Algorithms & Data Structures (freeCodeCamp, 2023)
-- Responsive Web Design (freeCodeCamp, 2022)
-
----
-
 ## 📬 Connect With Me
 
 <p>
@@ -132,10 +116,4 @@ Results-oriented front-end engineer building **scalable web & mobile apps** for 
   <a href="mailto:abhinavanand1310@gmail.com">Gmail</a> •
   <a href="https://github.com/abhinavanandmosaic">Professional GitHub</a> •
   <a href="https://github.com/abhinavANAND13">Personal GitHub</a>
-</p>
-
----
-
-<p align="center">
-<i>Let’s build performant, accessible, and delightful UIs—collaborators welcome!</i>
 </p>
